@@ -1,5 +1,11 @@
 # simple-crud-vue
 
+Simple CRUD app in single page with Vue 3
+
+- Add new posts
+- Edit posts
+- Delete posts
+
 ## Project setup
 ```
 npm install
